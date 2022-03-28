@@ -1,8 +1,10 @@
 # Flutter Firebase  - The Full Course 2.0 - Fireship.io
 
-This git is based on Fireship.io's Flutter Firebase - The Full Course 2.0's git and is created for educational purposes only!
----
 🕊️🔥 Build a realtime Quiz App from scratch with Flutter 2 & Firebase. 
+
+## Disclaimer
+
+This git is based on Fireship.io's Flutter Firebase - The Full Course 2.0's git and is created for educational purposes only!
 
 ## Learn it
 
